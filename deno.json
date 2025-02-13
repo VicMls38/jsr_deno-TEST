@@ -6,7 +6,7 @@
     "@std/assert": "jsr:@std/assert@1"
   },
   "name": "@vicmls38/strsum",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "exports": "./main.ts"
 }
